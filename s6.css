@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+    color: navy;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+header,
+footer {
+    text-align: center;
+    background-color: coral;
+}
+p {
+    text-align: justify;
+    text-indent: 8ch;
+}
+h2,
+h3,
+h4 {
+    color: crimson;
+    text-decoration-line: underline;
+}
+.letter1 {
+    color: black;
+    text-decoration-line: underline;
+    font-size: 120%;
+}
+h2 
