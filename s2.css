@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+    color: navy;
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    text-align: center;
+    background-color: gold;
+}
