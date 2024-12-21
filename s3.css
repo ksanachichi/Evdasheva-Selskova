@@ -1,17 +1,39 @@
 body{
-    background-color: bisque;
-    color: navy;
+    background-color:rgb(252, 250, 253);
+    color: rgb(105, 105, 107);
     margin: 5px;
     padding: 2px;
 }
-header,
+
 footer {
-    text-align: right;
-    background-color: coral;
+    text-align: left;
+    background-color: rgb(180, 177, 177);
+}
+
+h1 {
+    size: 150%;
+    color: rgb(107, 105, 105);
+    font-size:100px;
+    font-family: 'Times New Roman';
 }
 h2,
 h3,
 h4 {
-    color: crimson;
-    text-decoration-line: underline;
+    color: rgb(107, 105, 105);
+  
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(185, 183, 183);
+}
+.bottom-right {
+    position: absolute;
+    bottom: 800px;
+    right: 16px;
+}
+.bottom-right1 {
+    position: absolute;
+    bottom: 650px;
+    right: 16px;
 }
